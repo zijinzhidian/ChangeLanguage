@@ -1,0 +1,12 @@
+
+/* Class = "UIButton"; normalTitle = "跟随系统"; ObjectID = "6me-2H-Axa"; */
+"6me-2H-Axa.normalTitle" = "System";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "MmX-yp-PcU"; */
+"MmX-yp-PcU.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "英文"; ObjectID = "paB-BO-gwI"; */
+"paB-BO-gwI.normalTitle" = "English";
+
+/* Class = "UIButton"; normalTitle = "简体中文"; ObjectID = "ya1-Bk-PLl"; */
+"ya1-Bk-PLl.normalTitle" = "Chinese";
