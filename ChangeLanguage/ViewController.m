@@ -20,10 +20,10 @@
     [super viewDidLoad];
     self.view.backgroundColor = [UIColor redColor];
 
-    NSLog(@"%@",[NSBundle allBundles]);
+    NSLog(@"~%@",[NSBundle allBundles]);
     
     NSUserDefaults *defaults = [NSUserDefaults standardUserDefaults];
-    NSLog(@"%@",[defaults valueForKey:@"AppleLanguages"]);
+    NSLog(@"~%@",[defaults valueForKey:@"AppleLanguages"]);
     
     self.label.text = NSLocalizedString(@"text", nil);
 }
